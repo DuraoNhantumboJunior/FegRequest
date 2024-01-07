@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584207079403",
+    "project_id": "fet-request",
+    "storage_bucket": "fet-request.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584207079403:android:ba7997c2197b75d27dabae",
+        "android_client_info": {
+          "package_name": "com.durao.jnr.feg_request"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHrzvCFyWX7FY7zQMB700SX9qKP1Bf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584207079403:android:abf6db8076c0c3607dabae",
+        "android_client_info": {
+          "package_name": "com.durao.jnr.fegrequest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHrzvCFyWX7FY7zQMB700SX9qKP1Bf50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
